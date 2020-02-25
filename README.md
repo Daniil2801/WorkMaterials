@@ -1,4 +1,4 @@
-# WorkMaterials
+# rsschool-cv
 
 Hello!
 
